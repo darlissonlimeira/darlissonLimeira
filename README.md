@@ -6,7 +6,7 @@
 
 ### Languages & Tools 🛠
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Typescript](https://img.shields.io/badge/-React-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot) ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white) ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle) ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=D70040) ![NodeJs](https://img.shields.io/badge/node.js-05122A?style=flat&logo=Node.js&logoColor=green) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
