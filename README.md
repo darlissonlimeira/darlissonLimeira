@@ -21,6 +21,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)
 
 
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+
 ### Analytics ⚙️
 
 ![darlissonlimeira's Stats](https://github-readme-stats.vercel.app/api?username=darlissonlimeira&theme=algolia&show_icons=true&hide_border=true&count_private=true)
