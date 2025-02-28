@@ -17,11 +17,11 @@
 
 ### Analytics ⚙️
 
-![darlissonlimeira's Stats](https://github-readme-stats.vercel.app/api?username=darlissonlimeira&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![darlissonlimeira's Stats](https://github-readme-stats.vercel.app/api?username=darlissonlimeira&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![darlissonlimeira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darlissonlimeira&theme=blueberry&hide_border=true)
+![darlissonlimeira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darlissonlimeira&theme=radical&hide_border=true)
 
-![darlissonlimeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlissonlimeira&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![darlissonlimeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlissonlimeira&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ### Let's connect ? 🤝
 
