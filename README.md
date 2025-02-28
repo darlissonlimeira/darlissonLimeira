@@ -19,20 +19,11 @@
 
 ### Analytics ⚙️
 
-[![GitHub User's stars](https://img.shields.io/github/stars/darlissonlimeira?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/darlissonlimeira?tab=repositories&q=&type=public&language=&sort=stargazers)
+![darlissonlimeira's Stats](https://github-readme-stats.vercel.app/api?username=darlissonlimeira&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-<p align="left">
-<a href="https://github.com/darlissonlimeira">
-  <img src="https://github.com/darlissonlimeira/darlissonlimeira/blob/main/github-metrics.svg"/>
-</a>
-</p>
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darlissonlimeira" />
-<!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
-</p>  
+![darlissonlimeira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darlissonlimeira&theme=algolia&hide_border=true)
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+![darlissonlimeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlissonlimeira&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 ### Let's connect ? 🤝
 
