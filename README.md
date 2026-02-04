@@ -1,27 +1,34 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=darlissonlimeira&color=blue)
 
-<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> 
 
-### Hi, I'm a fullstack software developer, working with Spring boot, NestJs and React. Ask me anything!
+# Welcome!
+
+### Hi, I'm Darlisson, Fullstack Software Engineer. 
+Focused in Java with React :robot:
+Lover of Technology and coding :heart:
+
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+
+### About Me!
+
+I'm a junior developer at the beginning of my career, focused on Java backend development, using PostgreSQL as a database and React on the frontend.
+
+Currently, I'm also studying .NET (C#) to expand my technical knowledge and get familiar with different development ecosystems.
+
+I don’t have professional experience yet, but I’ve been building personal projects to practice good coding practices, 
+<br> basic architecture, testing concepts, and version control with Git and GitHub.
+
+I'm especially interested in backend development, working with APIs, business rules, databases, and clean code.
 
 ### Languages & Tools 🛠
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
-
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot) ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white) ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=green) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)
-
-
-### Analytics ⚙️
-
-![darlissonlimeira's Stats](https://github-readme-stats.vercel.app/api?username=darlissonlimeira&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![darlissonlimeira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darlissonlimeira&theme=radical&hide_border=true)
-
-![darlissonlimeira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlissonlimeira&theme=radical&show_icons=true&hide_border=true&layout=compact)
+- Java (Spring Boot, JPA/Hibernate)
+- PostgreSQL
+- React
+- .NET (C# - currently learning)
+- Git & GitHub
+- REST API concepts and basic architecture
 
 ### Let's connect ? 🤝
 
@@ -29,3 +36,10 @@
 <!-- <a href="http://bit.ly/guillaumefalourdlinkedin"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:darlisson.dev@gmail.com"><img src="https://img.shields.io/badge/-darlisson.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/darlissonlimeira)](https://github.com/darlissonlimeira)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlissonlimeira/)](https://www.linkedin.com/in/darlissonlimeira/)
+
+- Thanks for visiting.
+- Enjoy it!! o/
